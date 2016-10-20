@@ -1,2 +1,2 @@
 echo letsgo to lunch
-echo gimme sausage
+echo give me sausage
